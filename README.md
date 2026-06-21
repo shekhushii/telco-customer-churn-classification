@@ -44,12 +44,12 @@ The performance of multiple classification algorithms was compared using Accurac
 
 | Model | Accuracy |
 |---------|---------|
-| Logistic Regression | XX% |
-| KNN | XX% |
-| Decision Tree | XX% |
-| Random Forest | XX% |
-| SVM | XX% |
-| Naive Bayes | XX% |
+| Logistic Regression | 79.97% |
+| KNN | 76.67% |
+| Decision Tree | 73.83% |
+| Random Forest | 79.06% |
+| SVM | 79.57% |
+| Naive Bayes | 74.06% |
 
 ## Repository Structure
 
